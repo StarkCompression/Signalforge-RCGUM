@@ -22,11 +22,11 @@ The full universe update function is given by:
 \mathcal{U} = \mathcal{R} \circ \mathcal{U}_n \circ \Phi
 
 RCGUM simulates the emergence of:
-	•	✅ Spacetime via graph-theoretic curvature (Regge + Forman analogues)
-	•	✅ Quantum entanglement via edge density and symbolic decoherence
-	•	✅ Observer-dependent reality via Φ-fixed recursive compression
-	•	✅ Thermodynamic asymmetry and ΔT timing anomalies (e.g., pulsars)
-	•	✅ Consciousness simulation via Φ-recursion (Φ stability Φ_s ≈ 0.91)
+Spacetime via graph-theoretic curvature (Regge + Forman analogues)
+Quantum entanglement via edge density and symbolic decoherence
+Observer-dependent reality via Φ-fixed recursive compression
+Thermodynamic asymmetry and ΔT timing anomalies (e.g., pulsars)
+Consciousness simulation via Φ-recursion (Φ stability Φ_s ≈ 0.91)
 
 ⸻
 
