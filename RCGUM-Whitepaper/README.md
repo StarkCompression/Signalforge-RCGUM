@@ -28,7 +28,6 @@ code/                     → Simulation engine, predictive entropy model, Φ id
 notebooks/                → Interactive simulations (Jupyter)
 diagrams/                 → Recursive graph visuals, entropy flows, ΔT prediction trees
 data/                     → Pulsar anomalies, entanglement entropy measurements
-docs/                     → Reality Cracks Index, Project Signalforge Manifesto
 ```
 
 ## Authorship
