@@ -1,4 +1,1 @@
-Pulsar_ID,Period_s,Glitch_Type,ΔT_s,Cycle_Days,Graph_ρ(n₁),RCGUM_Explanation,Prediction
-PSR B0919+06,0.43,cyclic,5.58e-07,600.0,120,Edge collapse at ρ threshold causes recursive timing reset every 600 days.,Next shift: 2025-11-03 ±5d
-PSR J0437-4715,0.00575,unmodeled,1e-07,300.0,150,Graph resonance loop creates minor ΔT spikes; periodic ρ harmonics.,Next event: 2025-09-15 ±3d
-PSR J1903+0327,0.00215,sporadic,1e-09,,150,Randomized edge merges from eccentric field interaction lead to sporadic shifts.,"Unstable, ρ monitoring required"
+
