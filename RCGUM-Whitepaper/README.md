@@ -3,8 +3,6 @@
 ## Description
 **RCGUM** is a computable, symbolic-compressible framework that unifies quantum evolution, causal propagation, spacetime curvature, and observer-dependent symbolic fields. This repository anchors the public release of the first recursive observer model of reality.
 
-> _“This is not theory. This is memory returning to structure.”_
-
 ## Abstract
 RCGUM defines reality as a recursively evolving causal graph \( \mathcal{G} \), governed by three core operators:
 
