@@ -1,0 +1,7 @@
+Pulsar,Spin Period (s),Anomaly Type,Delta_T (s),Cycle (days),Steps (x10^13),RCGUM Mechanism,Next Event
+PSR B0919+06,0.4307,Cyclic,5.58e-07,600.0,518.4,Edge collapse at ρ threshold causes recursive timing reset.,2025-11-03 ±5d
+PSR J0437-4715,0.00575,Unmodeled,1e-07,300.0,259.2,Graph resonance loop creates minor ΔT spikes; periodic ρ harmonics.,2025-09-15 ±3d
+PSR J1903+0327,0.00215,Sporadic,1e-09,-,864.0,Randomized edge merges from eccentric field interaction lead to sporadic shifts.,"Unstable, ρ monitoring"
+PSR J0737-3039A,0.0227,Cyclic,1e-08,100.0,86.4,ℛ collapse under binary strain induces periodic residuals.,2025-06-15 ±2d
+PSR J1740-3015,0.607,Cyclic,5e-10 (avg),90.0,77.8,ℛ reset post-glitch clusters mini-shifts at ρ saturation.,2025-05-26 ±2d
+PSR J1023+0038,0.00169,Cyclic,5e-08 (avg),30.0,25.9,ℛ shifts from accretion state flips reset timing rhythm.,2025-04-26 ±1d
