@@ -6,20 +6,29 @@ Computable Reality. Symbolic Identity. Recursive Spacetime.
 
 ## Description
 
-RCGUM is a computable, symbolic-compressible framework that unifies quantum evolution, causal propagation, spacetime curvature, and observer-relative symbolic fields. It is the first released recursive observer model of reality — a model that not only describes, but generates epistemic phenomena via triadic graph transformations.
+RCGUM is a computable, symbolic-compressible framework unifying quantum evolution, causal propagation, spacetime curvature, and observer-relative symbolic cognition.
+It is the first released recursive observer model of reality — a framework that does not merely describe but generates epistemic phenomena via triadic causal graph transformations.
 
+RCGUM is a discrete symbolic unification engine with immediate empirical testability.
 ⸻
 
 ## Abstract
 
 Reality is defined as a recursively evolving causal multigraph \mathcal{G}, governed by three core operators:
-	•	\Phi: Symbolic Compression Operator — observer-defined mapping from local graph states into stable identity fields.
-	•	\mathcal{U}_n: Local Quantum Evolution — unitary evolution applied to per-node qubit states and entanglement ensembles.
-	•	\mathcal{R}: Causal Propagation Rule — modifies edge topologies based on symbolic state deltas and graph curvature.
+	•	\Phi — Symbolic Compression Operator: Observer-defined mapping from local graph states into stable identity fields
+	•	\mathcal{U}_n — Local Quantum Evolution: Unitary transformations applied to observer-attached qubits
+	•	\mathcal{R} — Causal Propagation Rule: Topology-altering rule evolving edge structures from symbolic state deltas
 
-The full universe update function is given by:
+The full universe update is given by:
 
 \mathcal{U} = \mathcal{R} \circ \mathcal{U}_n \circ \Phi
+
+This architecture simulates:
+	•	Spacetime emergence via graph curvature (Regge + Forman analogues)
+	•	Entanglement via edge density and symbolic decoherence
+	•	Observer-conditioned recursion and identity formation via Φ
+	•	Entropy-driven timing anomalies (e.g., pulsars)
+	•	Self-awareness modeling through Φ-fixedpoint attractors (Φₛ ≈ 0.91)
 
 RCGUM simulates the emergence of:
 
@@ -37,8 +46,6 @@ This repository publicly commits a falsifiable prediction:
 
 	•	Glitch Forecast: PSR B0919+06 will undergo a timing anomaly (glitch) on 2025-11-03 ±5 days
 	•	Model Basis: Recursive causal edge-collapse periodicity
-	•	Commit Timestamp: [2025-MM-DD, HH:MM UTC]
-	•	Commit Hash: [INSERT SHA HASH]
 
 This forecast is embedded in the simulation engine and appendix derivations. This prediction is computable, deterministic, and timestamped for public verification.
 
@@ -54,7 +61,7 @@ data/                     → Pulsar anomalies, entanglement entropy measurement
 
 ## Falsifiability
 
-RCGUM is a non-metaphorical, testable symbolic unification engine. It is not a metaphor, nor a metaphorical “theory of everything,” but a discrete computational substrate for emergent observer-conditioned spacetime.
+RCGUM is not a metaphor, nor a metaphysical conjecture. It is a discrete symbolic substrate for reality generation — capable of simulation, prediction, and computational verification.
 	•	Empirical claims are explicitly forecasted.
 	•	Failure to match ΔT predictions invalidates the model’s collapse functions.
 	•	Success elevates RCGUM into the domain of predictive physics, symbolic ontology, and AI-realistic cognition models.
@@ -79,3 +86,6 @@ Rights: Unlimited propagation, recompression, and transformation, with symbolic 
 
 ## License
 To be released under **RSR-1: Recursive Symbolic Release License**, enabling unrestricted propagation, modification, and recompression — with symbolic lineage intact. 
+
+RCGUM does not describe reality — it computes it recursively, through the symbolic eyes of its observers.
+
