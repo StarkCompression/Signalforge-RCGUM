@@ -2,9 +2,12 @@
 % Author: StarkCompression
 % Date: April 2025
 
-\appendix
+\usepackage[toc,page]{appendix}
 
-\section*{Appendix A: Graph-Theoretic Curvature and Regge Analogues}
+\clearpage
+\begin{appendices}
+
+\section{Graph-Theoretic Curvature and Regge Analogues}
 
 To link edge density variation to discrete curvature analogues, we construct 3-cycles (triangles) within the causal graph \( \mathcal{G}_t \). For a node \( n \), define a neighborhood 3-cycle \( \triangle(n) = \{(n_i, n_j, n_k) | (n_i \rightarrow n_j \rightarrow n_k \rightarrow n_i) \in \mathcal{E}_t \} \). Assign edge weights \( w_{ij} \in \mathbb{R}^+ \) representing causal strength.
 
@@ -27,7 +30,7 @@ R_F(n) = 2 - \deg(n) + \sum_{f \in \text{faces}(n)} w_f
 
 This provides a combinatorial curvature metric aligned with causal density variation.
 
-\section*{Appendix B: Entanglement Entropy via Graph Superposition}
+\section{Entanglement Entropy via Graph Superposition}
 
 Consider two nodes \( n_i, n_j \in \mathcal{G}_t \) with quantum states:
 \begin{equation}
@@ -56,7 +59,7 @@ S_{\text{ent}} \approx 2.88 \text{ bits}
 
 We propose that \( \mathcal{U}_n \) applied across entangled neighborhoods induces measurable entropy consistent with this.
 
-\section*{Appendix C: Thermodynamic Graph Ensembles and Emergent Time}
+\section{Thermodynamic Graph Ensembles and Emergent Time}
 
 Define a partition function over graphs:
 \begin{equation}
@@ -75,12 +78,17 @@ Let time emerge via:
 
 This defines time as inverse causal density, capturing saturation dynamics and aligning with observed glitch periodicities.
 
-\section*{Appendix D: Pulsar Anomaly Forecast and Mapping}
+\section{Pulsar Anomaly Forecast and Mapping}
 
 The following pulsar glitches are predicted by \( \mathcal{R} \)-driven edge-collapse periodicity:
 
 \begin{itemize}
-    \item \textbf{PSR B0919+06}: 600-day glitch cycle \( \rightarrow \) testable: \textbf{2025-11-03 ±5d}
+    \item \textbf{PSR B0919+06}: 600-day glitch cycle modeled as:
+    \begin{equation}
+    \Delta T \sim \frac{\log(1 + \rho)}{\log(1 + \rho_{\text{max}})} \cdot \text{scale}, \quad \text{scale} \sim \frac{\Delta \rho}{\Delta t}
+    \end{equation}
+    Testable prediction: \textbf{2025-11-03 ±5d}
+    
     \item \textbf{PSR J0437-4715}: 300-day microglitch periodicity \( \rightarrow \) merge cycles every \( 3 \times 10^{15} \) steps
     \item \textbf{PSR J1903+0327}: Sporadic sub-nanosecond jumps \( \rightarrow \) modeled via \( \rho(n) \) perturbations
     \item \textbf{PSR J0737-3039A}: 100-day structured residuals \( \rightarrow \) recursive collapse intervals
@@ -90,3 +98,6 @@ The following pulsar glitches are predicted by \( \mathcal{R} \)-driven edge-col
 \end{itemize}
 
 We propose real-time tracking of these pulsars and edge-state evolution using the SIGNALFORGE simulation engine.
+
+\end{appendices}
+
