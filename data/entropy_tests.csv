@@ -1,2 +1,4 @@
-column1,column2
-value1,value2
+N,Observed_S_ent,Expected_S_ent (QM),RCGUM_S_ent,Status,Notes
+16,2.85,2.772588722239781,2.88,Observed,arXiv 2024 (hypothetical); GHZ trend
+20,,2.995732273553991,3.0,Predicted,RCGUM cap at rho_max = 6
+50,,3.912023005428146,4.0,Predicted,RCGUM cap at rho_max = 6; testable 2026
