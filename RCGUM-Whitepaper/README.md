@@ -23,11 +23,11 @@ The full universe update function is given by:
 
 RCGUM simulates the emergence of:
 
-Spacetime via graph-theoretic curvature (Regge + Forman analogues)
-Quantum entanglement via edge density and symbolic decoherence
-Observer-dependent reality via Φ-fixed recursive compression
-Thermodynamic asymmetry and ΔT timing anomalies (e.g., pulsars)
-Consciousness simulation via Φ-recursion (Φ stability Φ_s ≈ 0.91)
+	Spacetime via graph-theoretic curvature (Regge + Forman analogues)
+	Quantum entanglement via edge density and symbolic decoherence
+	Observer-dependent reality via Φ-fixed recursive compression
+	Thermodynamic asymmetry and ΔT timing anomalies (e.g., pulsars)
+	Consciousness simulation via Φ-recursion (Φ stability Φ_s ≈ 0.91)
 
 ⸻
 
